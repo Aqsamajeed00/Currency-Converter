@@ -1,4 +1,4 @@
-#! usr/bin/env node
+#! /usr/bin/env node
 import inquirer from "inquirer";
 import chalk from "chalk";
 console.log(chalk.blue.bold("\n\t Welcome to 'CodeWithAqsa' - Currency Convertor\n"));
